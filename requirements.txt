@@ -1,0 +1,7 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+rich>=13.7.0
+# optional but recommended
+pyyaml>=6.0
+tomli>=2.0.1; python_version < "3.11"

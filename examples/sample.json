@@ -1,0 +1,11 @@
+{
+  "name": "Digital Microscope",
+  "version": "2.0",
+  "description": "Universal tool for studying digital tissue",
+  "molecules": ["json", "python", "csv", "html", "text"],
+  "active": true,
+  "stats": {
+    "files": 12,
+    "lines": 1840
+  }
+}
